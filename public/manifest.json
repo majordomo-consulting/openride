@@ -1,0 +1,20 @@
+{
+  "name": "openride.io",
+  "short_name": "openride.io",
+  "icons": [
+    {
+      "src": "img/icons/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/icons/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#d7ffe8",
+  "theme_color": "#2196F3"
+}
