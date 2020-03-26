@@ -13,8 +13,8 @@
 
 #### Clone repository and cd into it.
 ```
-git clone https://github.com/majordomo-systems/openride.io.git
-cd openride.io
+git clone https://github.com/majordomo-systems/openride.git
+cd openride
 ```
 
 #### Gather Firebase credentials then copy into config file.
