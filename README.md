@@ -46,12 +46,6 @@ Firebase Setup
 Your admin panel is available at https://your.url/admin
 Update your Airtable as needed - changes are immediately reflected within your application
 
-#### Compile, minify for production and deploy dist folder to Firebase
-```
-firebase init
-npm run build && firebase deploy
-```
-
 ## Technologies & Attributions
 
 Vue.js, Leaflet.js, OpenStreetMap, Vuetify, Firebase, Airtable
