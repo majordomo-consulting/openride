@@ -44,7 +44,10 @@ Firebase Setup
 ## Usage
 
 Your admin panel is available at https://your.url/admin
+
 Update your Airtable as needed - changes are immediately reflected within your application
+
+Changing authentication from false to true in `/src/router/index.js` will add Firebase authentication to those pages
 
 ## Technologies & Attributions
 
