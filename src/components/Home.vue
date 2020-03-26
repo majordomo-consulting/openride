@@ -33,8 +33,6 @@
           <br />
           Source code is available on <a href="https://github.com/majordomo-systems/openride">GitHub</a>.
           <br />
-          This software can be downloaded, manipulated in any way and used without accreditation.
-          <br />
           Usage under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GPLv3</a> License.
           <br />
           Created for <a href="https://chsn.support">Central Hastings Support Network</a> by <a href="https://majordomo.consulting">majordomo Consulting</a>.
