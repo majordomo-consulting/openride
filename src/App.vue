@@ -143,7 +143,7 @@
 
 <!--
     <v-app-bar dense dark app color="#53346d">
-      <v-spacer></v-spacer><span contenteditable="true">openride</span>
+      <v-spacer></v-spacer><span>openride</span>
     </v-app-bar>
 -->
     <v-dialog app v-model="welcomeDialog" max-width="500px">

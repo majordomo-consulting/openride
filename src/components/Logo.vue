@@ -1,5 +1,5 @@
 <template>
-<h1><span contenteditable="true">open</span><span contenteditable="true">ride</span></h1>
+<h1><span>open</span><span>ride</span></h1>
 </template>
 
 <script>

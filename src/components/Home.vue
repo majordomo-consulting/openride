@@ -22,7 +22,7 @@
           <div class="option active" data-option="home" @click="clientMenu = !clientMenu; driverMenu = !driverMenu">I'm a client!</div>
           <div class="option" data-option="outdoor" @click="driverMenu = !driverMenu; clientMenu = !clientMenu">I'm a driver!</div>
         </div>
-        <span contenteditable="true">
+        <span>
           <h2>Deploy your own Ride Hailing Network</h2>
           Does your organization or municipality want to implement a ride hailing program?
           <br />
