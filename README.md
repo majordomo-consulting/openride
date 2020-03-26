@@ -11,6 +11,10 @@
 
 [Create a new Firebase project.](https://firebase.google.com/)
 
+[Create Airtable](https://airtable.com/invite/r/8zPT6nN2)
+
+[Copy Base](https://airtable.com/shr1RU5wp0Hl290gt)
+
 #### Clone repository and cd into it.
 ```
 git clone https://github.com/majordomo-systems/openride.git

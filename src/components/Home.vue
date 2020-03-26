@@ -26,7 +26,7 @@
           <h2>Deploy your own Ride Hailing Network</h2>
           Does your organization or municipality want to implement a ride hailing program?
           <br />
-          Many small locales do not have public transit and are looking for ways to schedule and administer a drive network.
+          For small locales which do not have public transit and are looking for ways to schedule and administer a drive network.
           <br />
           <h2>openride</h2>
           is a free and opensource ride-hailing application.  It consists of a client and driver app and an <router-link to="/admin" :key="$route.fullPath">administration dashboard.</router-link>
