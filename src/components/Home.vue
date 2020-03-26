@@ -31,7 +31,7 @@
           <h2>openride</h2>
           is a free and opensource ride-hailing application.  It consists of a client and driver app and an <router-link to="/admin" :key="$route.fullPath">administration dashboard.</router-link>
           <br />
-          Source code is available on <a href="https://github.com/majordomo-systems/openride">GitHub</a>.
+          Source code is available on <a href="https://github.com/majordomo-systems/openride">GitHub</a>.  Feel free to download and modify it for your use.
           <br />
           Usage under the <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GPLv3</a> License.
           <br />
