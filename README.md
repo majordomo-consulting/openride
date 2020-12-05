@@ -1,5 +1,7 @@
 # openride
 
+## this application is no longer under development
+
 [FRONT END DEMO](https://openride-io.firebaseapp.com)
 
 [ADMIN DASHBOARD DEMO](https://openride-io.firebaseapp.com/admin)
@@ -17,7 +19,7 @@
 
 #### Clone repository and cd into it.
 ```
-git clone https://github.com/majordomo-systems/openride.git
+git clone https://github.com/majordomo-consulting/openride.git
 cd openride
 ```
 
