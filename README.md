@@ -1,6 +1,8 @@
 # openride
 
-## this application is no longer under development
+## status
+
+this application is no longer under development.  though it served its purpose as a proof-of-concept, airtable should not be used in production as a back-end
 
 [FRONT END DEMO](https://openride-io.firebaseapp.com)
 
