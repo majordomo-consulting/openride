@@ -4,6 +4,8 @@
 
 this application is no longer under development.  though it served its purpose as a proof-of-concept, airtable should not be used in production as a back-end. future variants will use a different tech stack.
 
+v2 is under development
+
 [FRONT END DEMO](https://openride-io.firebaseapp.com)
 
 [ADMIN DASHBOARD DEMO](https://openride-io.firebaseapp.com/admin)
