@@ -13,7 +13,7 @@
     "@turf/mask": "^5.1.5",
     "airtable": "^0.10.1",
     "animate.css": "^3.7.2",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "core-js": "^3.6.4",
     "firebase": "^7.10.0",
     "firebaseui": "^4.4.0",
